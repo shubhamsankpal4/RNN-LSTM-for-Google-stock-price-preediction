@@ -1,1 +1,1 @@
-# RNN-LSTM-for-Google-stock-price-preediction
+# RNN-LSTM-for-Google-stock-price-prediction
